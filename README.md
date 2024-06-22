@@ -1,1 +1,1 @@
-# mcmobile
+# Mobile version of Mouse Clicker
